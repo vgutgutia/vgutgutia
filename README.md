@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @vgutgutia
-- 👀 I’m interested in art
-- 🌱 I’m currently learning art
-- 💞️ I’m looking to collaborate on art
-- 📫 How to reach me (don't)
-- ⚡ Fun fact: I do art
+- 👀 I’m interested in design based programming
 
 <!---
 vgutgutia/vgutgutia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
